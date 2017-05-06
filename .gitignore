@@ -15,8 +15,6 @@ hs_err_pid*
 #java specific
 *.class
 
-#netbeans ignore personal stuff
-nbproject/
 
 ## generic files to ignore
 *~
