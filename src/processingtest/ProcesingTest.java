@@ -24,6 +24,8 @@ public class ProcesingTest
             
             System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
             ProcessingApplet.main("processingtest.ProcessingApplet");
+            
+            String hola = "prueba commit";
         }
         catch (Exception ex)
         {
